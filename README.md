@@ -82,5 +82,5 @@ Sommaire du cours:
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d. Sélection des lignes et des colonnes  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e. Inspecter, convertir et trier les données  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;f. Agrégation de données  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;g. Visualisation de données
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;g. Visualisation de données  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;h. Exercice  
