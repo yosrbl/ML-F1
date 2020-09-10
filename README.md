@@ -48,6 +48,17 @@ Sommaire du cours:
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;l. Travailler avec des images  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;m. Transformer les données    
     
-**5. Utilisation de la librairie Tensorflow**
+**5. Utilisation de la librairie Keras et Tensorflow**    
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Présentation du projet  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Vocabulaire utilisé par la librairie Keras  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Exemple d'un modèle : Réseau de neurones
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d. Couches des réseaux de neurones  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e. Les fonctions d'activations  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;f. Entrainement du modèle  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;g. Les fonctions d'objectifs  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;h. Les optimiseurs  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i. Exemple de prédictions  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;j. Sauvegarde et restauration du modèle    
+    
 **6. Exemple : Reconnaissance d'image**
 **7. Utilisation de la librairie Pandas**
