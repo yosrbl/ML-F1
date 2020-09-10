@@ -76,7 +76,7 @@ Sommaire du cours :
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;l. Exercice 1 : Test du modèle sur une écriture personnelle  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;m. Exercice 2 : Un autre modèle  
     
-**7. Utilisation de la librairie Pandas**  
+**7. Utilisation de la librairie Pandas : Manipuler, transformer et visualiser des données**  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Présentation de la librairie Pandas  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Où trouver les données ?  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Chargement et inspection des données  
