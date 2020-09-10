@@ -5,7 +5,7 @@ Dépôt pour les cours de Machine Learning au lycée François 1er de Fontainebl
     a. Les carnets Jupyter  
     b. Partager ses carnets avec Github  
     c. Quelques définitions  
-2. Quelques rappels de Python
+2. Quelques rappels de Python  
     a. Syntaxe  
     b. Exercice 1 : Produit scalaire  
     c. Exercice 2 : Tracés de fonctions  
