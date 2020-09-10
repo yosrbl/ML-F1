@@ -10,13 +10,13 @@ Sommaire du cours :
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Partager ses carnets avec Github  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Quelques définitions    
     
-**2. Quelques rappels de Python**    [(Télécharger - 516 Mo)](https://drive.google.com/file/d/1tO5U2Nr3gyd6xmXkIAKO2AhTYQR47VRA/view?usp=sharing)
+**2. Quelques rappels de Python**    [(Télécharger - 516 Mo)](https://drive.google.com/file/d/1tO5U2Nr3gyd6xmXkIAKO2AhTYQR47VRA/view?usp=sharing)    
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Syntaxe  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Exercice 1 : Produit scalaire  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Exercice 2 : Tracés de fonctions  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d. Gestion d'un mot de passe    
     
-**3. Régression logistique : Structure de base d'un réseau de neurones, Algorithme du gradient et rétropopagation du gradient**    [(Télécharger - 145 Mo](https://drive.google.com/file/d/1Atheylw5oV9irnfuT8h2Fj9CV0JDcTN0/view?usp=sharing)
+**3. Régression logistique : Structure de base d'un réseau de neurones, Algorithme du gradient et rétropopagation du gradient**    [(Télécharger - 145 Mo](https://drive.google.com/file/d/1Atheylw5oV9irnfuT8h2Fj9CV0JDcTN0/view?usp=sharing)    
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Présentation du projet, Les étapes de l'apprentissage automatique  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Analyse des données  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Exercice 1 : Distribution des pétales des iris  
