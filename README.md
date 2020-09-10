@@ -4,7 +4,7 @@ Dépôt pour les cours de Machine Learning au lycée François 1er de Fontainebl
 Sommaire du cours:
 ==================
 
-1. Environnement de développement Google Colab  
+**1. Environnement de développement Google Colab**  
     a. Les carnets Jupyter  
     b. Partager ses carnets avec Github  
     c. Quelques définitions  
