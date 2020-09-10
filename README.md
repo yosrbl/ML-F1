@@ -1,6 +1,6 @@
 # ML-F1
 Dépôt pour les **cours de Machine Learning (apprentissage automatique)** au **lycée François 1er de Fontainebleau**, classe de terminale spécialité **Sciences de l'ingénieur**.    
-(En cours de développement, les liens vers les vidéos et powerpoints des cours seront bientôt disponibles)  
+(En cours de développement, les liens vers les **vidéos et powerpoints** des cours seront bientôt disponibles)  
 
 Sommaire du cours :
 ===================
