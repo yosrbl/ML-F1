@@ -1,8 +1,8 @@
 # ML-F1
 Dépôt pour les cours de Machine Learning au lycée François 1er de Fontainebleau, classe de terminale Sciences de l'ingénieur
 
-1. Environnement de développement Google Colab
-    a. Les carnets Jupyter
+1. Environnement de développement Google Colab  
+    a. Les carnets Jupyter  
     b. Partager ses carnets avec Github
     c. Quelques définitions
 2. Quelques rappels de Python
