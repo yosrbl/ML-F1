@@ -33,7 +33,21 @@ Sommaire du cours:
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o. Accélérer l'entrainement  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;p. Améliorer le modèle    
     
-**4. Utilisation de la librairie NumPy**
+**4. Utilisation de la librairie NumPy**    
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Présentation de la librarie  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Création de données  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Oparations sur les tableaux  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d. Régression linéaire  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e. Exemple de régression linéaire  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;f. Exercice sur la régression linéaire  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;g. Exemple de régression linéaire quadratique  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;h. Un exemple plus évolué  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i. Fonctions statistiques avec NumPy  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;j. Algèbre linéaire avec NumPy  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;k. Visualiser des données  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;l. Travailler avec des images  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;m. Transformer les données    
+    
 **5. Utilisation de la librairie Tensorflow**
 **6. Exemple : Reconnaissance d'image**
 **7. Utilisation de la librairie Pandas**
