@@ -16,7 +16,7 @@ Sommaire du cours :
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Exercice 2 : Tracés de fonctions  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d. Gestion d'un mot de passe    
     
-**3. Régression logistique : Structure de base d'un réseau de neurones, Algorithme du gradient**    
+**3. Régression logistique : Structure de base d'un réseau de neurones, Algorithme du gradient et rétropopagation du gradient**    
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Présentation du projet, Les étapes de l'apprentissage automatique  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Analyse des données  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Exercice 1 : Distribution des pétales des iris  
@@ -34,7 +34,7 @@ Sommaire du cours :
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o. Accélérer l'entrainement  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;p. Améliorer le modèle    
     
-**4. Utilisation de la librairie NumPy : Régression linéaire**    
+**4. Utilisation de la librairie NumPy : Régression linéaire d'odre 1 et 2, travailler avec des images**    
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Présentation de la librarie  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Création de données  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Oparations sur les tableaux  
@@ -49,7 +49,7 @@ Sommaire du cours :
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;l. Travailler avec des images  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;m. Transformer les données    
     
-**5. Utilisation de la librairie Keras et Tensorflow : Construction et mise en oeuvre d'un réseau de neurones profond**    
+**5. Utilisation de la librairie Keras et Tensorflow : Construction et mise en oeuvre d'un réseau de neurones profond (fully connected perceptron)**    
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Présentation du projet  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Vocabulaire utilisé par la librairie Keras  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Exemple d'un modèle : Réseau de neurones  
@@ -61,7 +61,7 @@ Sommaire du cours :
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i. Exemple de prédictions  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;j. Sauvegarde et restauration du modèle    
     
-**6. Exemple : Reconnaissance d'image : Construction et mise en oeuvre d'un réseau de neurones à convolution**  
+**6. Exemple : Reconnaissance d'image : Construction et mise en oeuvre d'un réseau de neurones à convolution (convolutional neural network)**  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Présentation du projet  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Réseau de neurones à convolution  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Analyse des données  
@@ -76,7 +76,7 @@ Sommaire du cours :
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;l. Exercice 1 : Test du modèle sur une écriture personnelle  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;m. Exercice 2 : Un autre modèle  
     
-**7. Utilisation de la librairie Pandas : Manipuler, transformer et visualiser des données**  
+**7. Utilisation de la librairie Pandas : Manipuler, transformer et visualiser des données pour le deep-learning**  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Présentation de la librairie Pandas  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Où trouver les données ?  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Chargement et inspection des données  
