@@ -1,8 +1,8 @@
 # ML-F1
 Dépôt pour les cours de Machine Learning au lycée François 1er de Fontainebleau, classe de terminale Sciences de l'ingénieur.
 
-Sommaire du cours:
-==================
+Sommaire du cours :
+===================
 
 **1. Environnement de développement Google Colab**    
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Les carnets Jupyter  
