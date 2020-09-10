@@ -60,5 +60,19 @@ Sommaire du cours:
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i. Exemple de prédictions  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;j. Sauvegarde et restauration du modèle    
     
-**6. Exemple : Reconnaissance d'image**
+**6. Exemple : Reconnaissance d'image : Construction et mise en oeuvre d'un réseau de neurones à convolution**  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Présentation du projet  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Réseau de neurones à convolution  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Analyse des données  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d. Préparation des données  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e. Définition du modèle - Réseau de neurones à convolution  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;f. Entrainement du modèle  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;g. Prédictions  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;h. Analyse des erreurs  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i. Optimisation des hyper-paramètres  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;j. Essais d'optimisation des hyper-paramètres  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;k. Questions fréquentes  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;l. Exercice 1 : Test du modèle sur une écriture personnelle  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;m. Exercice 2 : Un autre modèle  
+    
 **7. Utilisation de la librairie Pandas**
