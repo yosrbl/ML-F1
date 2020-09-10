@@ -15,7 +15,7 @@ Sommaire du cours:
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Exercice 2 : Tracés de fonctions  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d. Gestion d'un mot de passe    
     
-**3. Régression logistique**    
+**3. Régression logistique : Structure de base d'un réseau de neurones, Algorithme du gradient**    
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Présentation du projet, Les étapes de l'apprentissage automatique  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Analyse des données  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Exercice 1 : Distribution des pétales des iris  
@@ -33,7 +33,7 @@ Sommaire du cours:
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o. Accélérer l'entrainement  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;p. Améliorer le modèle    
     
-**4. Utilisation de la librairie NumPy**    
+**4. Utilisation de la librairie NumPy : Régression linéaire**    
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Présentation de la librarie  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Création de données  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Oparations sur les tableaux  
@@ -48,10 +48,10 @@ Sommaire du cours:
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;l. Travailler avec des images  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;m. Transformer les données    
     
-**5. Utilisation de la librairie Keras et Tensorflow**    
+**5. Utilisation de la librairie Keras et Tensorflow : Construction et mise en oeuvre d'un réseau de neurones profond**    
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Présentation du projet  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Vocabulaire utilisé par la librairie Keras  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Exemple d'un modèle : Réseau de neurones
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Exemple d'un modèle : Réseau de neurones  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d. Couches des réseaux de neurones  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e. Les fonctions d'activations  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;f. Entrainement du modèle  
