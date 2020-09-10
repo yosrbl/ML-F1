@@ -8,12 +8,12 @@ Sommaire du cours:
     a. Les carnets Jupyter  
     b. Partager ses carnets avec Github  
     c. Quelques définitions  
-2. Quelques rappels de Python  
+**2. Quelques rappels de Python**    
     a. Syntaxe  
     b. Exercice 1 : Produit scalaire  
     c. Exercice 2 : Tracés de fonctions  
     d. Gestion d'un mot de passe  
-3. Régression logistique  
+**3. Régression logistique**    
     a. Présentation du projet, Les étapes de l'apprentissage automatique  
     b. Analyse des données  
     c. Exercice 1 : Distribution des pétales des iris  
@@ -30,7 +30,7 @@ Sommaire du cours:
     n. Données d'entrainements et de tests  
     o. Accélérer l'entrainement  
     p. Améliorer le modèle
-4. Utilisation de la librairie NumPy
-5. Utilisation de la librairie Tensorflow
-6. Exemple : Reconnaissance d'image
-7. Utilisation de la librairie Pandas
+**4. Utilisation de la librairie NumPy**
+**5. Utilisation de la librairie Tensorflow**
+**6. Exemple : Reconnaissance d'image**
+**7. Utilisation de la librairie Pandas**
