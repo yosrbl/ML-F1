@@ -5,7 +5,7 @@ Dépôt pour les **cours de Machine Learning (apprentissage automatique)** au **
 Sommaire du cours :
 ===================
 
-**1. Environnement de développement Google Colab** [(Télécharger - 229Mo)](https://drive.google.com/file/d/1LSdkRTc1S9RjSidYmeJM-nGLHCoNCiBA/view?usp=sharing)     
+**1. Environnement de développement Google Colab** [(Télécharger - 145Mo)](https://drive.google.com/file/d/1Alm3oPnQvcYEyZinD2uWKDW-63ydW8Dc/view?usp=sharing)     
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Les carnets Jupyter  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Partager ses carnets avec Github  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Quelques définitions    
