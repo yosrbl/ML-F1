@@ -7,7 +7,8 @@ Sommaire du cours:
 **1. Environnement de développement Google Colab**    
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Les carnets Jupyter  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Partager ses carnets avec Github  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Quelques définitions  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Quelques définitions    
+    
 **2. Quelques rappels de Python**    
     a. Syntaxe  
     b. Exercice 1 : Produit scalaire  
