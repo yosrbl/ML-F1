@@ -65,7 +65,8 @@ Sommaire du cours :
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i. [Exemple de prédictions](http://62.210.208.36/MachineLearning/5.%20Tensorflow/9.%20Exemple%20de%20pr%c3%a9dictions%20(Published)/)  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;j. [Sauvegarde et restauration du modèle](http://62.210.208.36/MachineLearning/5.%20Tensorflow/10.%20Sauvegarde%20et%20restauration%20du%20mod%c3%a8le%20(Published)/)    
     
-**6. Construction et mise en oeuvre d'un réseau de neurones à convolution (convolutional neural network) - Application à la reconnaissance d'image :**    
+**6. Construction et mise en oeuvre d'un réseau de neurones à convolution (convolutional neural network) - Application à la reconnaissance d'image :**   
+[(Télécharger ce chapitre - 751 Mo)](https://drive.google.com/file/d/11eOwGIXP_nnMszCH4xhcMrqR9iNIbWUq/view?usp=sharing)  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Présentation du projet  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Réseau de neurones à convolution  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Analyse des données  
@@ -81,6 +82,7 @@ Sommaire du cours :
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;m. Exercice 2 : Un autre modèle  
     
 **7. Utilisation de la librairie Pandas : Manipuler, transformer et visualiser des données pour le deep-learning**  
+[(Télécharger ce chapitre - 338 Mo)](https://drive.google.com/file/d/1DwxPr46uPs1F4OAjLKgpGUcHqvHTH1RM/view?usp=sharing)  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Présentation de la librairie Pandas  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Où trouver les données ?  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Chargement et inspection des données  
