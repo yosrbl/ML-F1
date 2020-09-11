@@ -34,7 +34,7 @@ Sommaire du cours :
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o. [Accélérer l'entrainement](http://62.210.208.36/MachineLearning/3.%20Regression%20logistique/16.%20Acc%c3%a9l%c3%a9rer%20l'entrainement%20(Published)/)  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;p. [Améliorer le modèle](http://62.210.208.36/MachineLearning/3.%20Regression%20logistique/17.%20Am%c3%a9liorer%20le%20mod%c3%a8le%20(Published)/)    
     
-**4. Utilisation de la librairie NumPy : Régression linéaire d'odre 1 et 2, travailler avec des images**    
+**4. Utilisation de la librairie NumPy : Régression linéaire d'odre 1 et 2, travailler avec des images** [(Télécharger - 501Mo)](https://drive.google.com/file/d/1APeOguKoQjFTVJ_4plRjAWsMerVenP-A/view?usp=sharing)    
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Présentation de la librarie  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Création de données  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Oparations sur les tableaux  
