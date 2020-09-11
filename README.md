@@ -48,7 +48,7 @@ Sommaire du cours :
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;l. [Travailler avec des images](http://62.210.208.36/MachineLearning/4.%20NumPy/11.%20Travailler%20avec%20des%20images%20(Published)/)  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;m. [Transformer les données](http://62.210.208.36/MachineLearning/4.%20NumPy/12.%20Transformer%20les%20donn%c3%a9es%20(Published)/)    
 
-**5. Utilisation des librairies Keras et Tensorflow : Construction et mise en oeuvre d'un réseau de neurones multi-couches profond (fully connected multi-layer neural network) -  Application à l'approximation de fonctions**[(Télécharger - 279 Mo](https://drive.google.com/file/d/1Gu251mTrDAx-N7_aCZfLqXPrOpCYBszu/view?usp=sharing)    
+**5. Utilisation des librairies Keras et Tensorflow : Construction et mise en oeuvre d'un réseau de neurones multi-couches profond (fully connected multi-layer neural network) -  Application à l'approximation de fonctions**[(Télécharger - 279 Mo)](https://drive.google.com/file/d/1Gu251mTrDAx-N7_aCZfLqXPrOpCYBszu/view?usp=sharing)    
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. [Présentation du projet](http://62.210.208.36/MachineLearning/5.%20Tensorflow/1.%20Pr%c3%a9sentation%20(Published)/)  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. [Vocabulaire utilisé par la librairie Keras](http://62.210.208.36/MachineLearning/5.%20Tensorflow/2.%20Vocabulaire%20Keras%20(Published)/)  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. [Exemple d'un modèle : Réseau de neurones](http://62.210.208.36/MachineLearning/5.%20Tensorflow/3.%20Exemple%20de%20mod%c3%a8le%20(Published)/)  
