@@ -6,7 +6,7 @@ Sommaire du cours :
 ===================
 
 **1. Environnement de développement Google Colab** [(Télécharger - 145Mo)](https://drive.google.com/file/d/1Alm3oPnQvcYEyZinD2uWKDW-63ydW8Dc/view?usp=sharing)     
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Les carnets Jupyter  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. [Les carnets Jupyter](http://62.210.208.36/MachineLearning/1.%20Environnement%20de%20d%c3%a9veloppement/1.%20Pr%c3%a9sentation%20(Published)/)  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Partager ses carnets avec Github  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Quelques définitions    
     
