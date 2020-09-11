@@ -49,7 +49,7 @@ Sommaire du cours :
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;l. Travailler avec des images  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;m. Transformer les données    
     
-**5. Utilisation des librairies Keras et Tensorflow : Construction et mise en oeuvre d'un réseau de neurones profond (fully connected perceptron)**    
+**5. Utilisation des librairies Keras et Tensorflow : Construction et mise en oeuvre d'un réseau de neurones multi-couches profond (fully connected multi-layer neural network)**    
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Présentation du projet  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Vocabulaire utilisé par la librairie Keras  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Exemple d'un modèle : Réseau de neurones  
