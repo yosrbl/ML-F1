@@ -16,7 +16,7 @@ Sommaire du cours :
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Exercice 2 : Tracés de fonctions  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d. Gestion d'un mot de passe    
     
-**3. Régression logistique : Structure de base d'un réseau de neurones, Algorithme du gradient et rétropopagation du gradient**    [(Télécharger - 145 Mo)](https://drive.google.com/file/d/1Atheylw5oV9irnfuT8h2Fj9CV0JDcTN0/view?usp=sharing)    
+**3. Régression logistique : Structure de base d'un réseau de neurones, Algorithme du gradient et rétropopagation du gradient - Application à la classification d'objets**    [(Télécharger - 145 Mo)](https://drive.google.com/file/d/1Atheylw5oV9irnfuT8h2Fj9CV0JDcTN0/view?usp=sharing)    
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Présentation du projet, Les étapes de l'apprentissage automatique  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Analyse des données  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Exercice 1 : Distribution des pétales des iris  
@@ -49,7 +49,7 @@ Sommaire du cours :
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;l. Travailler avec des images  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;m. Transformer les données    
 
-**5. Utilisation des librairies Keras et Tensorflow : Construction et mise en oeuvre d'un réseau de neurones multi-couches profond (fully connected multi-layer neural network)**    
+**5. Utilisation des librairies Keras et Tensorflow : Construction et mise en oeuvre d'un réseau de neurones multi-couches profond (fully connected multi-layer neural network) -  Application à l'approximation de fonctions**    
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Présentation du projet  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Vocabulaire utilisé par la librairie Keras  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Exemple d'un modèle : Réseau de neurones  
