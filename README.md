@@ -19,20 +19,20 @@ Sommaire du cours :
 **3. Régression logistique : Structure de base d'un réseau de neurones, Algorithme du gradient et rétropopagation du gradient - Application à la classification d'objets**    [(Télécharger - 1 Go)](https://drive.google.com/file/d/1Atheylw5oV9irnfuT8h2Fj9CV0JDcTN0/view?usp=sharing)    
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. [Présentation du projet](http://62.210.208.36/MachineLearning/3.%20Regression%20logistique/1.%20Pr%c3%a9sentation%20(Published)/), [Les étapes de l'apprentissage automatique](http://62.210.208.36/MachineLearning/3.%20Regression%20logistique/2.%20Etapes%20ML%20(Published)/)  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. [Analyse des données](http://62.210.208.36/MachineLearning/3.%20Regression%20logistique/3.%20Analyse%20des%20donn%c3%a9es%20(Published)/)  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Exercice 1 : Distribution des pétales des iris  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d. Modèle de régression logistique  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e. Fonction Sigmoïde  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;f. Fonction d'objectifs et de coût  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;g. Algorithme du gradient  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;h. Exercice 2 : Algorithme du gradient  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i. Théorie de l'algorithme du gradient  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;j. Rétropropagation du gradient  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;k. Entrainement du modèle  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;l. Exercice 3 : Entrainement du modèle  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;m. Prédictions  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;n. Données d'entrainements et de tests  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o. Accélérer l'entrainement  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;p. Améliorer le modèle    
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. [Exercice 1 : Distribution des pétales des iris](http://62.210.208.36/MachineLearning/3.%20Regression%20logistique/4.%20Exercice%201%20-%20Distribution%20des%20p%c3%a9tales%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d. [Modèle de régression logistique](http://62.210.208.36/MachineLearning/3.%20Regression%20logistique/5.%20Mod%c3%a8le%20de%20regression%20logistique%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e. [Fonction Sigmoïde](http://62.210.208.36/MachineLearning/3.%20Regression%20logistique/6.%20Fonction%20Sigmoide%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;f. [Fonction d'objectifs et de coût](http://62.210.208.36/MachineLearning/3.%20Regression%20logistique/7.%20Fonction%20de%20Perte%20et%20de%20Co%c3%bbt%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;g. [Algorithme du gradient](http://62.210.208.36/MachineLearning/3.%20Regression%20logistique/8.%20Algorithme%20du%20gradient%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;h. [Exercice 2 : Algorithme du gradient](http://62.210.208.36/MachineLearning/3.%20Regression%20logistique/9.%20Exercice%202%20-%20Algorithme%20du%20gradient%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i. [Théorie de l'algorithme du gradient](http://62.210.208.36/MachineLearning/3.%20Regression%20logistique/10.Th%c3%a9orie_Algo_R%c3%a9tropropagation/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;j. [Rétropropagation du gradient](http://62.210.208.36/MachineLearning/3.%20Regression%20logistique/11.%20R%c3%a9tropropagation_Gradient%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;k. [Entrainement du modèle](http://62.210.208.36/MachineLearning/3.%20Regression%20logistique/12.%20Entrainement%20du%20mod%c3%a8le%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;l. [Exercice 3 : Entrainement du modèle](http://62.210.208.36/MachineLearning/3.%20Regression%20logistique/13.%20Exercice%203%20-%20Entrainement%20du%20mod%c3%a8le%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;m. [Prédictions](http://62.210.208.36/MachineLearning/3.%20Regression%20logistique/14.%20Pr%c3%a9dictions%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;n. [Données d'entrainements et de tests](http://62.210.208.36/MachineLearning/3.%20Regression%20logistique/15.%20Donn%c3%a9es%20d'entrainement%20et%20de%20test%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o. [Accélérer l'entrainement](http://62.210.208.36/MachineLearning/3.%20Regression%20logistique/16.%20Acc%c3%a9l%c3%a9rer%20l'entrainement%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;p. [Améliorer le modèle](http://62.210.208.36/MachineLearning/3.%20Regression%20logistique/17.%20Am%c3%a9liorer%20le%20mod%c3%a8le%20(Published)/)    
     
 **4. Utilisation de la librairie NumPy : Régression linéaire d'odre 1 et 2, travailler avec des images**    
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Présentation de la librarie  
