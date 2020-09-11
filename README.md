@@ -48,17 +48,17 @@ Sommaire du cours :
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;l. [Travailler avec des images](http://62.210.208.36/MachineLearning/4.%20NumPy/11.%20Travailler%20avec%20des%20images%20(Published)/)  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;m. [Transformer les données](http://62.210.208.36/MachineLearning/4.%20NumPy/12.%20Transformer%20les%20donn%c3%a9es%20(Published)/)    
 
-**5. Utilisation des librairies Keras et Tensorflow : Construction et mise en oeuvre d'un réseau de neurones multi-couches profond (fully connected multi-layer neural network) -  Application à l'approximation de fonctions**    
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Présentation du projet  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Vocabulaire utilisé par la librairie Keras  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Exemple d'un modèle : Réseau de neurones  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d. Couches des réseaux de neurones  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e. Les fonctions d'activations  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;f. Entrainement du modèle  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;g. Les fonctions d'objectifs  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;h. Les optimiseurs  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i. Exemple de prédictions  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;j. Sauvegarde et restauration du modèle    
+**5. Utilisation des librairies Keras et Tensorflow : Construction et mise en oeuvre d'un réseau de neurones multi-couches profond (fully connected multi-layer neural network) -  Application à l'approximation de fonctions**[(Télécharger - 279 Mo](https://drive.google.com/file/d/1Gu251mTrDAx-N7_aCZfLqXPrOpCYBszu/view?usp=sharing)    
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. [Présentation du projet](http://62.210.208.36/MachineLearning/5.%20Tensorflow/1.%20Pr%c3%a9sentation%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. [Vocabulaire utilisé par la librairie Keras](http://62.210.208.36/MachineLearning/5.%20Tensorflow/2.%20Vocabulaire%20Keras%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. [Exemple d'un modèle : Réseau de neurones](http://62.210.208.36/MachineLearning/5.%20Tensorflow/3.%20Exemple%20de%20mod%c3%a8le%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d. [Couches des réseaux de neurones](http://62.210.208.36/MachineLearning/5.%20Tensorflow/4.%20Couches%20des%20mod%c3%a8les%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e. [Les fonctions d'activations](http://62.210.208.36/MachineLearning/5.%20Tensorflow/5.%20Fonctions%20d'activation%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;f. [Entrainement du modèle](http://62.210.208.36/MachineLearning/5.%20Tensorflow/6.%20Entrainement%20du%20mod%c3%a8le%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;g. [Les fonctions d'objectifs](http://62.210.208.36/MachineLearning/5.%20Tensorflow/7.%20Les%20fonctions%20d'objectif%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;h. [Les optimiseurs](http://62.210.208.36/MachineLearning/5.%20Tensorflow/8.%20Les%20optimiseurs%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i. [Exemple de prédictions](http://62.210.208.36/MachineLearning/5.%20Tensorflow/9.%20Exemple%20de%20pr%c3%a9dictions%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;j. [Sauvegarde et restauration du modèle](http://62.210.208.36/MachineLearning/5.%20Tensorflow/10.%20Sauvegarde%20et%20restauration%20du%20mod%c3%a8le%20(Published)/)    
     
 **6. Construction et mise en oeuvre d'un réseau de neurones à convolution (convolutional neural network) - Application à la reconnaissance d'image :**    
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Présentation du projet  
