@@ -48,7 +48,7 @@ Sommaire du cours :
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;k. Visualiser des données  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;l. Travailler avec des images  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;m. Transformer les données    
-    
+
 **5. Utilisation des librairies Keras et Tensorflow : Construction et mise en oeuvre d'un réseau de neurones multi-couches profond (fully connected multi-layer neural network)**    
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Présentation du projet  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Vocabulaire utilisé par la librairie Keras  
@@ -61,7 +61,7 @@ Sommaire du cours :
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i. Exemple de prédictions  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;j. Sauvegarde et restauration du modèle    
     
-**6. Construction et mise en oeuvre d'un réseau de neurones à convolution (convolutional neural network) - Application à la reconnaissance d'image : **  
+**6. Construction et mise en oeuvre d'un réseau de neurones à convolution (convolutional neural network) - Application à la reconnaissance d'image : **    
 
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Présentation du projet  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Réseau de neurones à convolution  
