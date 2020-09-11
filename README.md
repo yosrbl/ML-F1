@@ -11,14 +11,14 @@ Sommaire du cours :
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. [Quelques définitions](http://62.210.208.36/MachineLearning/1.%20Environnement%20de%20d%c3%a9veloppement/4.%20D%c3%a9finitions%20(Published)/)    
     
 **2. Quelques rappels de Python**    [(Télécharger - 516 Mo)](https://drive.google.com/file/d/1tO5U2Nr3gyd6xmXkIAKO2AhTYQR47VRA/view?usp=sharing)    
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Syntaxe  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Exercice 1 : Produit scalaire  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Exercice 2 : Tracés de fonctions  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d. Gestion d'un mot de passe    
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. [Syntaxe](http://62.210.208.36/MachineLearning/2.%20Rappels%20de%20Python/2.%20Syntaxe%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. [Exercice 1 : Produit scalaire](http://62.210.208.36/MachineLearning/2.%20Rappels%20de%20Python/3.%20Exercice%201%20-%20Produit%20Scalaire%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. [Exercice 2 : Tracés de fonctions](http://62.210.208.36/MachineLearning/2.%20Rappels%20de%20Python/4.%20Exercice%202%20-%20Trac%c3%a9s%20de%20fonctions%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d. [Gestion d'un mot de passe](http://62.210.208.36/MachineLearning/2.%20Rappels%20de%20Python/5.%20Mot%20de%20passe%20(Published)/)    
     
 **3. Régression logistique : Structure de base d'un réseau de neurones, Algorithme du gradient et rétropopagation du gradient - Application à la classification d'objets**    [(Télécharger - 1 Go)](https://drive.google.com/file/d/1Atheylw5oV9irnfuT8h2Fj9CV0JDcTN0/view?usp=sharing)    
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Présentation du projet, Les étapes de l'apprentissage automatique  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Analyse des données  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. [Présentation du projet](http://62.210.208.36/MachineLearning/3.%20Regression%20logistique/1.%20Pr%c3%a9sentation%20(Published)/), [Les étapes de l'apprentissage automatique](http://62.210.208.36/MachineLearning/3.%20Regression%20logistique/2.%20Etapes%20ML%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. [Analyse des données](http://62.210.208.36/MachineLearning/3.%20Regression%20logistique/3.%20Analyse%20des%20donn%c3%a9es%20(Published)/)  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Exercice 1 : Distribution des pétales des iris  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d. Modèle de régression logistique  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e. Fonction Sigmoïde  
