@@ -35,19 +35,18 @@ Sommaire du cours :
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;p. [Améliorer le modèle](http://62.210.208.36/MachineLearning/3.%20Regression%20logistique/17.%20Am%c3%a9liorer%20le%20mod%c3%a8le%20(Published)/)    
     
 **4. Utilisation de la librairie NumPy : Régression linéaire d'odre 1 et 2, travailler avec des images** [(Télécharger - 501Mo)](https://drive.google.com/file/d/1APeOguKoQjFTVJ_4plRjAWsMerVenP-A/view?usp=sharing)    
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Présentation de la librarie  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Création de données  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Oparations sur les tableaux  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d. Régression linéaire  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e. Exemple de régression linéaire  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;f. Exercice sur la régression linéaire  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;g. Exemple de régression linéaire quadratique  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;h. Un exemple plus évolué  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i. Fonctions statistiques avec NumPy  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;j. Algèbre linéaire avec NumPy  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;k. Visualiser des données  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;l. Travailler avec des images  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;m. Transformer les données    
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. [Présentation de la librarie](http://62.210.208.36/MachineLearning/4.%20NumPy/1.%20Pr%c3%a9sentation%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. [Création de données](http://62.210.208.36/MachineLearning/4.%20NumPy/2.%20Cr%c3%a9er%20des%20donn%c3%a9es%20avec%20NumPy%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. [Opérations sur les tableaux](http://62.210.208.36/MachineLearning/4.%20NumPy/3.%20Op%c3%a9rations%20de%20base%20sur%20les%20tableaux%20-%20Copie%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d. [Régression linéaire](http://62.210.208.36/MachineLearning/4.%20NumPy/4.%20R%c3%a9gr%c3%a9ssion%20lin%c3%a9aire%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e. [Exemple de régression linéaire](http://62.210.208.36/MachineLearning/4.%20NumPy/5.%20Exemple%20de%20r%c3%a9gr%c3%a9ssion%20lin%c3%a9aire%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;f. [Exercice sur la régression linéaire](http://62.210.208.36/MachineLearning/4.%20NumPy/6.%20Exercice%20de%20r%c3%a9gr%c3%a9ssion%20lin%c3%a9aire%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;g. [Un exemple plus évolué](http://62.210.208.36/MachineLearning/4.%20NumPy/7.%20Un%20exemple%20plus%20%c3%a9volu%c3%a9%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;h. [Fonctions statistiques avec NumPy](http://62.210.208.36/MachineLearning/4.%20NumPy/8.%20Fonctions%20statistiques%20avec%20NumPy%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i. [Algèbre linéaire avec NumPy](http://62.210.208.36/MachineLearning/4.%20NumPy/9.%20Alg%c3%a8bre%20lin%c3%a9aire%20avec%20NumPy%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;j. [Visualiser des données](http://62.210.208.36/MachineLearning/4.%20NumPy/10.%20Visualiser%20des%20donn%c3%a9es%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;l. [Travailler avec des images](http://62.210.208.36/MachineLearning/4.%20NumPy/11.%20Travailler%20avec%20des%20images%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;m. [Transformer les données](http://62.210.208.36/MachineLearning/4.%20NumPy/12.%20Transformer%20les%20donn%c3%a9es%20(Published)/)    
 
 **5. Utilisation des librairies Keras et Tensorflow : Construction et mise en oeuvre d'un réseau de neurones multi-couches profond (fully connected multi-layer neural network) -  Application à l'approximation de fonctions**    
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Présentation du projet  
