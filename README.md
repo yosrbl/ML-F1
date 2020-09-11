@@ -61,8 +61,7 @@ Sommaire du cours :
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i. Exemple de prédictions  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;j. Sauvegarde et restauration du modèle    
     
-**6. Construction et mise en oeuvre d'un réseau de neurones à convolution (convolutional neural network) - Application à la reconnaissance d'image : **    
-
+**6. Construction et mise en oeuvre d'un réseau de neurones à convolution (convolutional neural network) - Application à la reconnaissance d'image :**    
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Présentation du projet  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Réseau de neurones à convolution  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Analyse des données  
