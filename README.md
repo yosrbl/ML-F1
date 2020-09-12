@@ -6,7 +6,9 @@ Le cours utilise beaucoup d'activités pratiques sous Python. Il y a cependant q
 
 Certaines parties peuvent également être étudiées en SNT :  
 * Dans le cadre d'un travail sur les images : Chapitre 6, en particulier l'activité de reconnaissance de police manuscrite, avec transformation des images couleurs en images N&B
-* 
+* Dans le cadre d'un travail sur le traitement des données : L'ensemble du chapitre 7.  
+
+Le chapitre 8 (à venir) peut également servir comme base pour faire un projet avec les élèves sur le thème du "deep-fake", en utilsant une base de donnée disponnible sur le dite du gouvernement : https://www.data.gouv.fr/fr/datasets/credibility-corpus-with-several-datasets-twitter-web-database-in-french-and-english/
 
 
 Sommaire du cours :
