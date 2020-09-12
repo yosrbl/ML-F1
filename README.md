@@ -83,11 +83,11 @@ Sommaire du cours :
     
 **7. Utilisation de la librairie Pandas : Manipuler, transformer et visualiser des données pour le deep-learning**  
 [(Télécharger ce chapitre - 338 Mo)](https://drive.google.com/file/d/1DwxPr46uPs1F4OAjLKgpGUcHqvHTH1RM/view?usp=sharing)  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Présentation de la librairie Pandas  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Où trouver les données ?  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Chargement et inspection des données  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d. Sélection des lignes et des colonnes  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e. Inspecter, convertir et trier les données  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;f. Agrégation de données  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;g. Visualisation de données  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;h. Exercice  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. [Présentation de la librairie Pandas](http://62.210.208.36/MachineLearning/7.%20Pandas/1.%20Pr%c3%a9sentation%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. [Où trouver les données ?](http://62.210.208.36/MachineLearning/7.%20Pandas/2.%20O%c3%b9%20trouver%20des%20donn%c3%a9es%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. [Chargement et inspection des données](http://62.210.208.36/MachineLearning/7.%20Pandas/3.%20Chargement%20et%20inspection%20des%20donn%c3%a9es%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d. [Sélection des lignes et des colonnes](http://62.210.208.36/MachineLearning/7.%20Pandas/4.%20S%c3%a9lection%20des%20lignes%20et%20des%20colonnes%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e. [Inspecter, convertir et trier les données](http://62.210.208.36/MachineLearning/7.%20Pandas/5.%20Inspecter,%20convertir%20et%20trier%20les%20donn%c3%a9es%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;f. [Agrégation de données](http://62.210.208.36/MachineLearning/7.%20Pandas/6.%20Agr%c3%a9gation%20de%20donn%c3%a9es%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;g. [Visualisation de données](http://62.210.208.36/MachineLearning/7.%20Pandas/7.%20Visualisation%20de%20donn%c3%a9es%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;h. [Exercice](http://62.210.208.36/MachineLearning/7.%20Pandas/8.%20Exercice%20(Published)/)  
