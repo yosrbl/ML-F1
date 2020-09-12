@@ -67,19 +67,19 @@ Sommaire du cours :
     
 **6. Construction et mise en oeuvre d'un réseau de neurones à convolution (convolutional neural network) - Application à la reconnaissance d'image :**   
 [(Télécharger ce chapitre - 751 Mo)](https://drive.google.com/file/d/11eOwGIXP_nnMszCH4xhcMrqR9iNIbWUq/view?usp=sharing)  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Présentation du projet  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Réseau de neurones à convolution  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Analyse des données  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d. Préparation des données  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e. Définition du modèle - Réseau de neurones à convolution  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;f. Entrainement du modèle  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;g. Prédictions  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;h. Analyse des erreurs  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i. Optimisation des hyper-paramètres  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;j. Essais d'optimisation des hyper-paramètres  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;k. Questions fréquentes  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;l. Exercice 1 : Test du modèle sur une écriture personnelle  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;m. Exercice 2 : Un autre modèle  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. [Présentation du projet](http://62.210.208.36/MachineLearning/6.%20Exemple%20-%20Reconnaissance%20d'image/1.%20Pr%c3%a9sentation%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. [Réseau de neurones à convolution](http://62.210.208.36/MachineLearning/6.%20Exemple%20-%20Reconnaissance%20d'image/2.%20R%c3%a9seaux%20%c3%a0%20convolution%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. [Analyse des données](http://62.210.208.36/MachineLearning/6.%20Exemple%20-%20Reconnaissance%20d'image/3.%20Analyse%20des%20donn%c3%a9es%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d. [Préparation des données](http://62.210.208.36/MachineLearning/6.%20Exemple%20-%20Reconnaissance%20d'image/4.%20Pr%c3%a9paration%20des%20donn%c3%a9es%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e. [Définition du modèle - Réseau de neurones à convolution](http://62.210.208.36/MachineLearning/6.%20Exemple%20-%20Reconnaissance%20d'image/5.%20D%c3%a9finition%20du%20mod%c3%a8le%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;f. [Entrainement du modèle](http://62.210.208.36/MachineLearning/6.%20Exemple%20-%20Reconnaissance%20d'image/6.%20Entrainement%20du%20mod%c3%a8le%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;g. [Prédictions](http://62.210.208.36/MachineLearning/6.%20Exemple%20-%20Reconnaissance%20d'image/7.%20Pr%c3%a9dictions%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;h. [Analyse des erreurs](http://62.210.208.36/MachineLearning/6.%20Exemple%20-%20Reconnaissance%20d'image/8.%20Analyse%20des%20erreurs%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i. [Optimisation des hyper-paramètres](http://62.210.208.36/MachineLearning/6.%20Exemple%20-%20Reconnaissance%20d'image/9.%20Optimisation%20des%20hyper-param%c3%a8tres%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;j. [Essais d'optimisation des hyper-paramètres](http://62.210.208.36/MachineLearning/6.%20Exemple%20-%20Reconnaissance%20d'image/10.%20Essais%20d'optimisation%20les%20hyper-param%c3%a8tres%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;k. [Questions fréquentes](http://62.210.208.36/MachineLearning/6.%20Exemple%20-%20Reconnaissance%20d'image/11.%20Questions%20fr%c3%a9quentes%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;l. [Exercice 1 : Test du modèle sur une écriture personnelle](http://62.210.208.36/MachineLearning/6.%20Exemple%20-%20Reconnaissance%20d'image/12.%20Exercice%201%20-%20Test%20du%20mod%c3%a8le%20sur%20une%20%c3%a9criture%20personnelle%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;m. [Exercice 2 : Un autre modèle](http://62.210.208.36/MachineLearning/6.%20Exemple%20-%20Reconnaissance%20d'image/13.%20Exercice%202%20-%20Un%20autre%20mod%c3%a8le%20(Published)/)  
     
 **7. Utilisation de la librairie Pandas : Manipuler, transformer et visualiser des données pour le deep-learning**  
 [(Télécharger ce chapitre - 338 Mo)](https://drive.google.com/file/d/1DwxPr46uPs1F4OAjLKgpGUcHqvHTH1RM/view?usp=sharing)  
