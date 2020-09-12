@@ -12,7 +12,9 @@ Certaines parties peuvent également être étudiées avec des secondes en SNT. 
 * Dans le cadre d'un travail sur les images : Chapitre 6, en particulier l'activité de reconnaissance de police manuscrite, avec transformation des images couleurs en images N&B
 * Dans le cadre d'un travail sur le traitement des données : L'ensemble du chapitre 7.  
 * Dans le cadre du WEB : Le chapitre 8 (à venir) explique comment les moteurs de recherche mettent en oeuvre des algorithmes de prolongation lexicales pour contextualiser les saisies des utilisateurs. Des vecteurs pré-entrainés en Anglais utilisés dans les réseaux de neurones à convolution 1D sont disponibles sur le site [GolVe](https://nlp.stanford.edu/projects/glove/). On peut trouver des vecteurs pré-entrainés en Français [sur ce site](http://www.cs.cmu.edu/~afm/projects/multilingual_embeddings.html)  
-* Toujours dans le cadre du big-data, le chapitre 8 (à venir) peut également servir comme base pour faire un projet avec les élèves sur le thème du "fake news", en utilsant une base de données disponnible sur [le site du gouvernement](https://www.data.gouv.fr/fr/datasets/credibility-corpus-with-several-datasets-twitter-web-database-in-french-and-english) qui a pour but d'analyser l'information dans le cadre des réseaux sociaux par exemple.
+* Toujours dans le cadre du big-data, le chapitre 8 (à venir) peut également servir comme base pour faire un projet avec les élèves sur le thème du "fake news", en utilsant une base de données disponnible sur [le site du gouvernement](https://www.data.gouv.fr/fr/datasets/credibility-corpus-with-several-datasets-twitter-web-database-in-french-and-english) qui a pour but d'analyser l'information dans le cadre des réseaux sociaux par exemple.  
+
+Contact : alexandre-antoi.bourrieau[at]ac-creteil.fr
 
 
 Sommaire du cours :
