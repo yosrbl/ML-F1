@@ -2,6 +2,9 @@
 Dépôt pour les **cours de Machine Learning (apprentissage automatique)**, classe de terminale spécialité **Sciences de l'ingénieur** du lycée François 1er à Fontainebleau.    
 (En cours de développement, les liens pour télécharger les **vidéos et présentations** des cours sont ajoutés régulièrement)  
 
+Le cours utilise beaucoup d'activités pratiques sous Python. Il y a cependant quelques aspects théoriques mathématiques qui sont développés. Ceux qui peuvent éventuellement poser problème à des élèves de Terminales sont des notions sur les matrices (Chapitre 4 sur la régression linéaire), les notions de dérivées (l'algorithme du gradient au chapitre 3) et celles sur les probabilités conditionnelles (chapitre 8 sur la méthode de la prolongation lexicale - mais elles sont très succintes il n'y a pas de calcul). Le chapitre 3.i : "Théorie sur l'algorithme du gradient" est quant à lui vraiment hors programme (notions de dérivées partielles et de dérivées de compositions de fonctions), mais je l'ai laissé car il permet de comprendre comment est construit l'algorithme de rétropropagation du gradient utlisé par la suite. 
+
+
 Sommaire du cours :
 ===================
 
@@ -65,27 +68,29 @@ Sommaire du cours :
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i. [Exemple de prédictions](http://62.210.208.36/MachineLearning/5.%20Tensorflow/9.%20Exemple%20de%20pr%c3%a9dictions%20(Published)/)  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;j. [Sauvegarde et restauration du modèle](http://62.210.208.36/MachineLearning/5.%20Tensorflow/10.%20Sauvegarde%20et%20restauration%20du%20mod%c3%a8le%20(Published)/)    
     
-**6. Construction et mise en oeuvre d'un réseau de neurones à convolution (convolutional neural network) - Application à la reconnaissance d'image :**    
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Présentation du projet  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Réseau de neurones à convolution  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Analyse des données  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d. Préparation des données  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e. Définition du modèle - Réseau de neurones à convolution  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;f. Entrainement du modèle  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;g. Prédictions  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;h. Analyse des erreurs  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i. Optimisation des hyper-paramètres  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;j. Essais d'optimisation des hyper-paramètres  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;k. Questions fréquentes  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;l. Exercice 1 : Test du modèle sur une écriture personnelle  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;m. Exercice 2 : Un autre modèle  
+**6. Construction et mise en oeuvre d'un réseau de neurones à convolution (convolutional neural network) - Application à la reconnaissance d'image :**   
+[(Télécharger ce chapitre - 751 Mo)](https://drive.google.com/file/d/11eOwGIXP_nnMszCH4xhcMrqR9iNIbWUq/view?usp=sharing)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. [Présentation du projet](http://62.210.208.36/MachineLearning/6.%20Exemple%20-%20Reconnaissance%20d'image/1.%20Pr%c3%a9sentation%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. [Réseau de neurones à convolution](http://62.210.208.36/MachineLearning/6.%20Exemple%20-%20Reconnaissance%20d'image/2.%20R%c3%a9seaux%20%c3%a0%20convolution%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. [Analyse des données](http://62.210.208.36/MachineLearning/6.%20Exemple%20-%20Reconnaissance%20d'image/3.%20Analyse%20des%20donn%c3%a9es%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d. [Préparation des données](http://62.210.208.36/MachineLearning/6.%20Exemple%20-%20Reconnaissance%20d'image/4.%20Pr%c3%a9paration%20des%20donn%c3%a9es%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e. [Définition du modèle - Réseau de neurones à convolution](http://62.210.208.36/MachineLearning/6.%20Exemple%20-%20Reconnaissance%20d'image/5.%20D%c3%a9finition%20du%20mod%c3%a8le%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;f. [Entrainement du modèle](http://62.210.208.36/MachineLearning/6.%20Exemple%20-%20Reconnaissance%20d'image/6.%20Entrainement%20du%20mod%c3%a8le%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;g. [Prédictions](http://62.210.208.36/MachineLearning/6.%20Exemple%20-%20Reconnaissance%20d'image/7.%20Pr%c3%a9dictions%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;h. [Analyse des erreurs](http://62.210.208.36/MachineLearning/6.%20Exemple%20-%20Reconnaissance%20d'image/8.%20Analyse%20des%20erreurs%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i. [Optimisation des hyper-paramètres](http://62.210.208.36/MachineLearning/6.%20Exemple%20-%20Reconnaissance%20d'image/9.%20Optimisation%20des%20hyper-param%c3%a8tres%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;j. [Essais d'optimisation des hyper-paramètres](http://62.210.208.36/MachineLearning/6.%20Exemple%20-%20Reconnaissance%20d'image/10.%20Essais%20d'optimisation%20les%20hyper-param%c3%a8tres%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;k. [Questions fréquentes](http://62.210.208.36/MachineLearning/6.%20Exemple%20-%20Reconnaissance%20d'image/11.%20Questions%20fr%c3%a9quentes%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;l. [Exercice 1 : Test du modèle sur une écriture personnelle](http://62.210.208.36/MachineLearning/6.%20Exemple%20-%20Reconnaissance%20d'image/12.%20Exercice%201%20-%20Test%20du%20mod%c3%a8le%20sur%20une%20%c3%a9criture%20personnelle%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;m. [Exercice 2 : Un autre modèle](http://62.210.208.36/MachineLearning/6.%20Exemple%20-%20Reconnaissance%20d'image/13.%20Exercice%202%20-%20Un%20autre%20mod%c3%a8le%20(Published)/)  
     
 **7. Utilisation de la librairie Pandas : Manipuler, transformer et visualiser des données pour le deep-learning**  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Présentation de la librairie Pandas  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Où trouver les données ?  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Chargement et inspection des données  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d. Sélection des lignes et des colonnes  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e. Inspecter, convertir et trier les données  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;f. Agrégation de données  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;g. Visualisation de données  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;h. Exercice  
+[(Télécharger ce chapitre - 338 Mo)](https://drive.google.com/file/d/1DwxPr46uPs1F4OAjLKgpGUcHqvHTH1RM/view?usp=sharing)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. [Présentation de la librairie Pandas](http://62.210.208.36/MachineLearning/7.%20Pandas/1.%20Pr%c3%a9sentation%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. [Où trouver les données ?](http://62.210.208.36/MachineLearning/7.%20Pandas/2.%20O%c3%b9%20trouver%20des%20donn%c3%a9es%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. [Chargement et inspection des données](http://62.210.208.36/MachineLearning/7.%20Pandas/3.%20Chargement%20et%20inspection%20des%20donn%c3%a9es%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d. [Sélection des lignes et des colonnes](http://62.210.208.36/MachineLearning/7.%20Pandas/4.%20S%c3%a9lection%20des%20lignes%20et%20des%20colonnes%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e. [Inspecter, convertir et trier les données](http://62.210.208.36/MachineLearning/7.%20Pandas/5.%20Inspecter,%20convertir%20et%20trier%20les%20donn%c3%a9es%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;f. [Agrégation de données](http://62.210.208.36/MachineLearning/7.%20Pandas/6.%20Agr%c3%a9gation%20de%20donn%c3%a9es%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;g. [Visualisation de données](http://62.210.208.36/MachineLearning/7.%20Pandas/7.%20Visualisation%20de%20donn%c3%a9es%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;h. [Exercice](http://62.210.208.36/MachineLearning/7.%20Pandas/8.%20Exercice%20(Published)/)  
