@@ -80,7 +80,7 @@ Sommaire du cours :
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i. [Exemple de prédictions](http://62.210.208.36/MachineLearning/5.%20Tensorflow/9.%20Exemple%20de%20pr%c3%a9dictions%20(Published)/)  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;j. [Sauvegarde et restauration du modèle](http://62.210.208.36/MachineLearning/5.%20Tensorflow/10.%20Sauvegarde%20et%20restauration%20du%20mod%c3%a8le%20(Published)/)    
     
-**6. Construction et mise en oeuvre d'un réseau de neurones à convolution (convolutional neural network) - Application à la reconnaissance d'image :**   
+**6. Construction et mise en oeuvre d'un réseau de neurones à convolution 2D (convolutional neural network) - Application à la reconnaissance d'image :**   
 [(Télécharger ce chapitre - 751 Mo)](https://drive.google.com/file/d/11eOwGIXP_nnMszCH4xhcMrqR9iNIbWUq/view?usp=sharing)  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. [Présentation du projet](http://62.210.208.36/MachineLearning/6.%20Exemple%20-%20Reconnaissance%20d'image/1.%20Pr%c3%a9sentation%20(Published)/)  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. [Réseau de neurones à convolution](http://62.210.208.36/MachineLearning/6.%20Exemple%20-%20Reconnaissance%20d'image/2.%20R%c3%a9seaux%20%c3%a0%20convolution%20(Published)/)  
@@ -105,4 +105,17 @@ Sommaire du cours :
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e. [Inspecter, convertir et trier les données](http://62.210.208.36/MachineLearning/7.%20Pandas/5.%20Inspecter,%20convertir%20et%20trier%20les%20donn%c3%a9es%20(Published)/)  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;f. [Agrégation de données](http://62.210.208.36/MachineLearning/7.%20Pandas/6.%20Agr%c3%a9gation%20de%20donn%c3%a9es%20(Published)/)  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;g. [Visualisation de données](http://62.210.208.36/MachineLearning/7.%20Pandas/7.%20Visualisation%20de%20donn%c3%a9es%20(Published)/)  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;h. [Exercice](http://62.210.208.36/MachineLearning/7.%20Pandas/8.%20Exercice%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;h. [Exercice](http://62.210.208.36/MachineLearning/7.%20Pandas/8.%20Exercice%20(Published)/)    
+
+**8. Analyse des ressentis : Mise en place d'un réseau de neuronnes à convolution 1D pour l'analyse de textes**  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Présentation
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Prolongation lexicale (Word embedding)
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Chargement des données utlisées pour l'entrainement et le test de notre modèle
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d. Préparation des données
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e. Définition du réseau de neuronnes à convolution 1D sous Keras
+    
+    
+    
+    
+
+  
