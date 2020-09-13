@@ -110,8 +110,8 @@ Sommaire du cours :
 **8. Analyse des ressentis, recommandations : Mise en place d'un réseau de neuronnes à convolution 1D pour l'analyse de textes**  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Présentation  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Prolongation lexicale (Word embedding)  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Chargement des données utlisées pour l'entrainement et le test de notre modèle  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d. Préparation des données  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Chargement et analyse des données utlisées pour l'entrainement et le test de notre modèle  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d. Préparation des données, chargement des vecteurs GloVe  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e. Définition du réseau de neuronnes à convolution 1D sous Keras  
     
     
