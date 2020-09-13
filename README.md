@@ -107,7 +107,7 @@ Sommaire du cours :
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;g. [Visualisation de données](http://62.210.208.36/MachineLearning/7.%20Pandas/7.%20Visualisation%20de%20donn%c3%a9es%20(Published)/)  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;h. [Exercice](http://62.210.208.36/MachineLearning/7.%20Pandas/8.%20Exercice%20(Published)/)    
 
-**8. Analyse des ressentis, recommandations : Mise en place d'un réseau de neuronnes à convolution 1D pour l'analyse de textes**  
+**8. Analyse des ressentis, recommandations WEB : Mise en place d'un réseau de neuronnes à convolution 1D pour l'analyse de textes**  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Présentation  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Prolongation lexicale (Word embedding)  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Chargement et analyse des données utlisées pour l'entrainement et le test de notre modèle  
