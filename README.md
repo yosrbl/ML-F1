@@ -108,11 +108,11 @@ Sommaire du cours :
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;h. [Exercice](http://62.210.208.36/MachineLearning/7.%20Pandas/8.%20Exercice%20(Published)/)    
 
 **8. Analyse des ressentis : Mise en place d'un réseau de neuronnes à convolution 1D pour l'analyse de textes**  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Présentation
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Prolongation lexicale (Word embedding)
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Chargement des données utlisées pour l'entrainement et le test de notre modèle
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d. Préparation des données
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e. Définition du réseau de neuronnes à convolution 1D sous Keras
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Présentation  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Prolongation lexicale (Word embedding)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Chargement des données utlisées pour l'entrainement et le test de notre modèle  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d. Préparation des données  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e. Définition du réseau de neuronnes à convolution 1D sous Keras  
     
     
     
