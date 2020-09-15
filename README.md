@@ -2,7 +2,19 @@
 Dépôt pour les **cours de Machine Learning (apprentissage automatique)**, classe de terminale spécialité **Sciences de l'ingénieur** du lycée François 1er à Fontainebleau.    
 (En cours de développement, les liens pour télécharger les **vidéos et présentations** des cours sont ajoutés régulièrement)  
 
-Le cours utilise beaucoup d'activités pratiques sous Python. Il y a cependant quelques aspects théoriques mathématiques qui sont développés. Ceux qui peuvent éventuellement poser problème à des élèves de Terminales sont des notions sur les matrices (Chapitre 4 sur la régression linéaire), les notions de dérivées (l'algorithme du gradient au chapitre 3) et celles sur les probabilités conditionnelles (chapitre 8 sur la méthode de la prolongation lexicale - mais elles sont très succintes il n'y a pas de calcul). Le chapitre 3.i : "Théorie sur l'algorithme du gradient" est quant à lui vraiment hors programme (notions de dérivées partielles et de dérivées de compositions de fonctions), mais je l'ai laissé car il permet de comprendre comment est construit l'algorithme de rétropropagation du gradient utlisé par la suite. 
+Le cours utilise beaucoup d'activités pratiques sous Python. Il y a cependant quelques aspects théoriques mathématiques qui sont développés. Ceux qui peuvent éventuellement poser problème à des élèves de Terminales sont :  
+* Des notions sur les matrices (Chapitre 4 sur la régression linéaire)
+* Des notions de dérivées (l'algorithme du gradient au chapitre 3)
+* Des notions sur les probabilités conditionnelles (chapitre 8 sur la méthode de la prolongation lexicale - mais elles sont très succintes il n'y a pas de calcul).  
+* Le chapitre 3.i : "Théorie sur l'algorithme du gradient" est quant à lui vraiment hors programme (notions de dérivées partielles et de dérivées de compositions de fonctions). Il permet de comprendre comment est construit l'algorithme de rétropropagation du gradient utlisé dans l'algorithme python. 
+
+Certaines parties peuvent également être étudiées avec des secondes en SNT. Quelques idées :  
+* Dans le cadre d'un travail sur les images : Chapitre 6, en particulier l'activité de reconnaissance de police manuscrite, avec transformation des images couleurs en images N&B
+* Dans le cadre d'un travail sur le traitement des données : L'ensemble du chapitre 7.  
+* Dans le cadre du WEB : Le chapitre 8 (à venir) explique comment les moteurs de recherche mettent en oeuvre des algorithmes de prolongation lexicales pour contextualiser les saisies des utilisateurs. Des vecteurs pré-entrainés en Anglais utilisés dans les réseaux de neurones à convolution 1D sont disponibles sur le site [GolVe](https://nlp.stanford.edu/projects/glove/). On peut trouver des vecteurs pré-entrainés en Français [sur ce site](http://www.cs.cmu.edu/~afm/projects/multilingual_embeddings.html)  
+* Toujours dans le cadre du big-data, le chapitre 8 (à venir) peut également servir comme base pour faire un projet avec les élèves sur le thème du "fake news", en utilsant une base de données disponnible sur [le site du gouvernement](https://www.data.gouv.fr/fr/datasets/credibility-corpus-with-several-datasets-twitter-web-database-in-french-and-english) qui a pour but d'analyser l'information dans le cadre des réseaux sociaux par exemple.  
+
+alexandre-antoi.bourrieau[at]ac-creteil.fr
 
 
 Sommaire du cours :
@@ -68,7 +80,7 @@ Sommaire du cours :
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i. [Exemple de prédictions](http://62.210.208.36/MachineLearning/5.%20Tensorflow/9.%20Exemple%20de%20pr%c3%a9dictions%20(Published)/)  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;j. [Sauvegarde et restauration du modèle](http://62.210.208.36/MachineLearning/5.%20Tensorflow/10.%20Sauvegarde%20et%20restauration%20du%20mod%c3%a8le%20(Published)/)    
     
-**6. Construction et mise en oeuvre d'un réseau de neurones à convolution (convolutional neural network) - Application à la reconnaissance d'image :**   
+**6. Construction et mise en oeuvre d'un réseau de neurones à convolution 2D (convolutional neural network) - Application à la reconnaissance d'image :**   
 [(Télécharger ce chapitre - 751 Mo)](https://drive.google.com/file/d/11eOwGIXP_nnMszCH4xhcMrqR9iNIbWUq/view?usp=sharing)  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. [Présentation du projet](http://62.210.208.36/MachineLearning/6.%20Exemple%20-%20Reconnaissance%20d'image/1.%20Pr%c3%a9sentation%20(Published)/)  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. [Réseau de neurones à convolution](http://62.210.208.36/MachineLearning/6.%20Exemple%20-%20Reconnaissance%20d'image/2.%20R%c3%a9seaux%20%c3%a0%20convolution%20(Published)/)  
@@ -93,4 +105,17 @@ Sommaire du cours :
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e. [Inspecter, convertir et trier les données](http://62.210.208.36/MachineLearning/7.%20Pandas/5.%20Inspecter,%20convertir%20et%20trier%20les%20donn%c3%a9es%20(Published)/)  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;f. [Agrégation de données](http://62.210.208.36/MachineLearning/7.%20Pandas/6.%20Agr%c3%a9gation%20de%20donn%c3%a9es%20(Published)/)  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;g. [Visualisation de données](http://62.210.208.36/MachineLearning/7.%20Pandas/7.%20Visualisation%20de%20donn%c3%a9es%20(Published)/)  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;h. [Exercice](http://62.210.208.36/MachineLearning/7.%20Pandas/8.%20Exercice%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;h. [Exercice](http://62.210.208.36/MachineLearning/7.%20Pandas/8.%20Exercice%20(Published)/)    
+
+**8. Analyse des ressentis, recommandations WEB : Mise en place d'un réseau de neuronnes à convolution 1D pour l'analyse de textes**  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Présentation  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Prolongation lexicale (Word embedding)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Chargement et analyse des données utlisées pour l'entrainement et le test de notre modèle  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d. Chargement des vecteurs GloVe et préparation des données  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e. Définition du réseau de neuronnes à convolution 1D sous Keras  
+    
+    
+    
+    
+
+  
