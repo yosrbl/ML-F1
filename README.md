@@ -112,7 +112,7 @@ Sommaire du cours :
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Prolongation lexicale (Word embedding)  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Chargement et analyse des données utlisées pour l'entrainement et le test de notre modèle  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d. Chargement des vecteurs GloVe et préparation des données  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e. Définition du réseau de neuronnes à convolution 1D sous Keras  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e. Classification de ressentis à l'aide d'un réseau de neuronnes à convolution 1D sous Keras  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;f. Entrainement, prédictions et analyse des erreurs du modèle  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;g. Quelques modèles utilisés pour le traitement naturel du langage (BERT, RoBERTa, CamemBERT)  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;h. Exemple de CamemBERT : Prédiction de mots "masqués" dans un texte  
