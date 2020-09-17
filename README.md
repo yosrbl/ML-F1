@@ -118,7 +118,9 @@ Sommaire du cours :
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;h. Exemple de CamemBERT : Prédiction de mots "masqués" dans un texte  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i. Utilisation de CamemBERT pour améliorer notre précédent réseau de neuronnes à convolution 1D  
     
-
+    
+  
+  <meta name="google-site-verification" content="fqLRo0ldjfvHDc1HaWI4H6DZeUSpgjty3KV7RF51oBc" />
 
     
     
