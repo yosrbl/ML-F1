@@ -110,7 +110,7 @@ Sommaire du cours :
 **8. Analyse des ressentis, recommandations WEB : Mise en place d'un réseau de neuronnes à convolution 1D pour l'analyse de textes**  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. [Présentation : Qu'est-ce que l'analyse des ressentis ?](http://62.210.208.36/MachineLearning/8.%20Recommandations/1.%20Pr%c3%a9sentation%20(Published)/)  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. [Prolongation lexicale (Word embedding)](http://62.210.208.36/MachineLearning/8.%20Recommandations/2.%20Word%20embedding%20(Published)/)  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Chargement et analyse des données utlisées pour l'entrainement et le test de notre modèle  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. [Chargement et analyse des données utlisées pour l'entrainement et le test de notre modèle](http://62.210.208.36/MachineLearning/8.%20Recommandations/3.%20Chargement%20des%20donn%c3%a9es%20(Published)/)  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d. Chargement des vecteurs GloVe et préparation des données  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e. Classification de ressentis à l'aide d'un réseau de neuronnes à convolution 1D sous Keras  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;f. Entrainement, prédictions et analyse des erreurs du modèle  
