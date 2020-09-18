@@ -107,16 +107,16 @@ Sommaire du cours :
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;g. [Visualisation de données](http://62.210.208.36/MachineLearning/7.%20Pandas/7.%20Visualisation%20de%20donn%c3%a9es%20(Published)/)  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;h. [Exercice](http://62.210.208.36/MachineLearning/7.%20Pandas/8.%20Exercice%20(Published)/)    
 
-**8. Analyse des ressentis, recommandations WEB : Mise en place d'un réseau de neuronnes à convolution 1D pour l'analyse de textes**  
+**8. Analyse des ressentis, recommandations WEB : Mise en place d'un réseau de neurones à convolution 1D pour l'analyse de textes**  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. [Présentation : Qu'est-ce que l'analyse des ressentis ?](http://62.210.208.36/MachineLearning/8.%20Recommandations/1.%20Pr%c3%a9sentation%20(Published)/)  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. [Prolongation lexicale (Word embedding)](http://62.210.208.36/MachineLearning/8.%20Recommandations/2.%20Word%20embedding%20(Published)/)  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. [Chargement et analyse des données utlisées pour l'entrainement et le test de notre modèle](http://62.210.208.36/MachineLearning/8.%20Recommandations/3.%20Chargement%20des%20donn%c3%a9es%20(Published)/)  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d. [Chargement des vecteurs GloVe et préparation des données](http://62.210.208.36/MachineLearning/8.%20Recommandations/4.%20Pr%c3%a9paration%20des%20donn%c3%a9es%20(Published)/)  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e. Classification de ressentis à l'aide d'un réseau de neuronnes à convolution 1D sous Keras  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e. Classification de ressentis à l'aide d'un réseau de neurones à convolution 1D sous Keras  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;f. Entrainement, prédictions et analyse des erreurs du modèle  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;g. Quelques modèles utilisés pour le traitement naturel du langage (BERT, RoBERTa, CamemBERT)  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;h. Exemple de CamemBERT : Prédiction de mots "masqués" dans un texte  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i. Utilisation de CamemBERT pour améliorer notre précédent réseau de neuronnes à convolution 1D  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i. Utilisation de CamemBERT pour améliorer notre précédent réseau de neurones à convolution 1D  
 
 
     
