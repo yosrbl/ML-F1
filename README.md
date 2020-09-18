@@ -112,10 +112,10 @@ Sommaire du cours :
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. [Prolongation lexicale (Word embedding)](http://62.210.208.36/MachineLearning/8.%20Recommandations/2.%20Word%20embedding%20(Published)/)  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. [Chargement et analyse des données utlisées pour l'entrainement et le test de notre modèle](http://62.210.208.36/MachineLearning/8.%20Recommandations/3.%20Chargement%20des%20donn%c3%a9es%20(Published)/)  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d. [Chargement des vecteurs GloVe et préparation des données](http://62.210.208.36/MachineLearning/8.%20Recommandations/4.%20Pr%c3%a9paration%20des%20donn%c3%a9es%20(Published)/)  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e. Classification de ressentis à l'aide d'un réseau de neurones à convolution 1D sous Keras  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;f. Entrainement, prédictions et analyse des erreurs du modèle  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;g. Quelques modèles utilisés pour le traitement naturel du langage (BERT, RoBERTa, CamemBERT)  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;h. Exemple de CamemBERT : Prédiction de mots "masqués" dans un texte  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e. [Classification de ressentis à l'aide d'un réseau de neurones à convolution 1D sous Keras](http://62.210.208.36/MachineLearning/8.%20Recommandations/5.%20D%c3%a9finition%20du%20mod%c3%a8le%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;f. [Entrainement, prédictions et analyse des erreurs du modèle](http://62.210.208.36/MachineLearning/8.%20Recommandations/6.%20Entrainement%20du%20mod%c3%a8le,%20pr%c3%a9dictions%20et%20analyse%20des%20erreurs%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;g. [Quelques modèles utilisés pour le traitement naturel du langage (BERT, RoBERTa, CamemBERT)](http://62.210.208.36/MachineLearning/8.%20Recommandations/7.%20Quelques%20mod%c3%a8les%20utilis%c3%a9s%20dans%20le%20traitement%20naturel%20du%20langage%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;h. [Exemple de CamemBERT : Prédiction de mots "masqués" dans un texte](http://62.210.208.36/MachineLearning/8.%20Recommandations/8.%20Exemple%20d'utilisation%20de%20CamemBERT%20(Published)/)  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i. Utilisation de CamemBERT pour améliorer notre précédent réseau de neurones à convolution 1D  
 
 
