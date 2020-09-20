@@ -107,7 +107,7 @@ Sommaire du cours :
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;g. [Visualisation de données](http://62.210.208.36/MachineLearning/7.%20Pandas/7.%20Visualisation%20de%20donn%c3%a9es%20(Published)/)  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;h. [Exercice](http://62.210.208.36/MachineLearning/7.%20Pandas/8.%20Exercice%20(Published)/)    
 
-**8. Analyse des ressentis, recommandations WEB : Mise en place d'un réseau de neurones à convolution 1D pour l'analyse de textes**  
+**8. Recommandations et analyse des ressentis avec GloVe : Mise en place d'un réseau de neurones à convolution 1D pour l'analyse de textes**  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. [Présentation : Qu'est-ce que l'analyse des ressentis ?](http://62.210.208.36/MachineLearning/8.%20Recommandations/1.%20Pr%c3%a9sentation%20(Published)/)  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. [Prolongation lexicale (Word embedding)](http://62.210.208.36/MachineLearning/8.%20Recommandations/2.%20Word%20embedding%20(Published)/)  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. [Chargement et analyse des données utlisées pour l'entrainement et le test de notre modèle](http://62.210.208.36/MachineLearning/8.%20Recommandations/3.%20Chargement%20des%20donn%c3%a9es%20(Published)/)  
@@ -116,7 +116,11 @@ Sommaire du cours :
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;f. [Entrainement, prédictions et analyse des erreurs du modèle](http://62.210.208.36/MachineLearning/8.%20Recommandations/6.%20Entrainement%20du%20mod%c3%a8le,%20pr%c3%a9dictions%20et%20analyse%20des%20erreurs%20(Published)/)  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;g. [Quelques modèles utilisés pour le traitement naturel du langage (BERT, RoBERTa, CamemBERT)](http://62.210.208.36/MachineLearning/8.%20Recommandations/7.%20Quelques%20mod%c3%a8les%20utilis%c3%a9s%20dans%20le%20traitement%20naturel%20du%20langage%20(Published)/)  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;h. [Exemple de CamemBERT : Prédiction de mots "masqués" dans un texte](http://62.210.208.36/MachineLearning/8.%20Recommandations/8.%20Exemple%20d'utilisation%20de%20CamemBERT%20(Published)/)  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i. Utilisation de CamemBERT pour améliorer notre précédent réseau de neurones à convolution 1D  
+      
+**9. Principe de fonctionnement de BERT**  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Présentation
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. [Les réseaux de neurones récurrents](http://62.210.208.36/MachineLearning/9.%20Principe%20de%20fonctionnement%20de%20BERT/2.%20Les%20r%c3%a9seaux%20de%20neurones%20r%c3%a9currents%20(Published)/)
+    
 
 
     
