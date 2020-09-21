@@ -108,6 +108,7 @@ Sommaire du cours :
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;h. [Exercice](http://62.210.208.36/MachineLearning/7.%20Pandas/8.%20Exercice%20(Published)/)    
 
 **8. Recommandations et analyse des ressentis avec GloVe : Mise en place d'un réseau de neurones à convolution 1D pour l'analyse de textes**  
+[(Télécharger ce chapitre - 670Mo)](https://drive.google.com/file/d/1yqkEm2Ewj6FuOetdKX-Ary-Ca565v3F1/view?usp=sharing)
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. [Présentation : Qu'est-ce que l'analyse des ressentis ?](http://62.210.208.36/MachineLearning/8.%20Recommandations/1.%20Pr%c3%a9sentation%20(Published)/)  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. [Prolongation lexicale (Word embedding)](http://62.210.208.36/MachineLearning/8.%20Recommandations/2.%20Word%20embedding%20(Published)/)  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. [Chargement et analyse des données utlisées pour l'entrainement et le test de notre modèle](http://62.210.208.36/MachineLearning/8.%20Recommandations/3.%20Chargement%20des%20donn%c3%a9es%20(Published)/)  
