@@ -54,7 +54,7 @@ Sommaire du cours :
     
 **4. Utilisation de la librairie NumPy : Régression linéaire d'odre 1 et 2, travailler avec des images**  
 [(Télécharger ce chapitre - 501Mo)](https://drive.google.com/file/d/1APeOguKoQjFTVJ_4plRjAWsMerVenP-A/view?usp=sharing)    
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. [Présentation de la librarie](http://62.210.208.36/MachineLearning/4.%20NumPy/1.%20Pr%c3%a9sentation%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. [Présentation de la librairie](http://62.210.208.36/MachineLearning/4.%20NumPy/1.%20Pr%c3%a9sentation%20(Published)/)  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. [Création de données](http://62.210.208.36/MachineLearning/4.%20NumPy/2.%20Cr%c3%a9er%20des%20donn%c3%a9es%20avec%20NumPy%20(Published)/)  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. [Opérations sur les tableaux](http://62.210.208.36/MachineLearning/4.%20NumPy/3.%20Op%c3%a9rations%20de%20base%20sur%20les%20tableaux%20-%20Copie%20(Published)/)  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d. [Régression linéaire](http://62.210.208.36/MachineLearning/4.%20NumPy/4.%20R%c3%a9gr%c3%a9ssion%20lin%c3%a9aire%20(Published)/)  
