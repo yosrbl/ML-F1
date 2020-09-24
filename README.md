@@ -122,7 +122,7 @@ Sommaire du cours :
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Présentation  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. [Les réseaux de neurones récurrents](http://62.210.208.36/MachineLearning/9.%20Principe%20de%20fonctionnement%20de%20BERT/2.%20Les%20r%c3%a9seaux%20de%20neurones%20r%c3%a9currents%20(Published)/)  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. [Le concept d'attention](http://62.210.208.36/MachineLearning/9.%20Principe%20de%20fonctionnement%20de%20BERT/3.%20Le%20concept%20d'attention%20(Published)/)  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Le modèle "Transformer"
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d. Le modèle "Transformer"
     
     
     
