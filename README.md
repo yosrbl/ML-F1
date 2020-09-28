@@ -124,6 +124,6 @@ Sommaire du cours :
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. [Le concept d'attention](http://62.210.208.36/MachineLearning/9.%20Principe%20de%20fonctionnement%20de%20BERT/3.%20Le%20concept%20d'attention%20(Published)/)  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d. [Le modèle "Transformer"](http://62.210.208.36/MachineLearning/9.%20Principe%20de%20fonctionnement%20de%20BERT/4.%20Le%20mod%c3%a8le%20Transformer%20(Published)/)  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e. [Principe de fonctionnement de BERT"](http://62.210.208.36/MachineLearning/9.%20Principe%20de%20fonctionnement%20de%20BERT/5.%20Principe%20de%20fonctionnement%20de%20BERT%20(Published)/)  
-    
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;f. [Utilisation de BERT pour la classification"](http://62.210.208.36/MachineLearning/9.%20Principe%20de%20fonctionnement%20de%20BERT/6.%20Utilisation%20de%20BERT%20pour%20la%20classification%20(Published)/)      
 
   
