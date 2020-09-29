@@ -54,7 +54,7 @@ Sommaire du cours :
     
 **4. Utilisation de la librairie NumPy : Régression linéaire d'odre 1 et 2, travailler avec des images**  
 [(Télécharger ce chapitre - 501Mo)](https://drive.google.com/file/d/1APeOguKoQjFTVJ_4plRjAWsMerVenP-A/view?usp=sharing)    
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. [Présentation de la librarie](http://62.210.208.36/MachineLearning/4.%20NumPy/1.%20Pr%c3%a9sentation%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. [Présentation de la librairie](http://62.210.208.36/MachineLearning/4.%20NumPy/1.%20Pr%c3%a9sentation%20(Published)/)  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. [Création de données](http://62.210.208.36/MachineLearning/4.%20NumPy/2.%20Cr%c3%a9er%20des%20donn%c3%a9es%20avec%20NumPy%20(Published)/)  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. [Opérations sur les tableaux](http://62.210.208.36/MachineLearning/4.%20NumPy/3.%20Op%c3%a9rations%20de%20base%20sur%20les%20tableaux%20-%20Copie%20(Published)/)  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d. [Régression linéaire](http://62.210.208.36/MachineLearning/4.%20NumPy/4.%20R%c3%a9gr%c3%a9ssion%20lin%c3%a9aire%20(Published)/)  
@@ -107,23 +107,23 @@ Sommaire du cours :
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;g. [Visualisation de données](http://62.210.208.36/MachineLearning/7.%20Pandas/7.%20Visualisation%20de%20donn%c3%a9es%20(Published)/)  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;h. [Exercice](http://62.210.208.36/MachineLearning/7.%20Pandas/8.%20Exercice%20(Published)/)    
 
-**8. Analyse des ressentis, recommandations WEB : Mise en place d'un réseau de neuronnes à convolution 1D pour l'analyse de textes**  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Présentation : Qu'est-ce que l'analyse des ressentis ?  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Prolongation lexicale (Word embedding)  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. Chargement et analyse des données utlisées pour l'entrainement et le test de notre modèle  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d. Chargement des vecteurs GloVe et préparation des données  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e. Classification de ressentis à l'aide d'un réseau de neuronnes à convolution 1D sous Keras  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;f. Entrainement, prédictions et analyse des erreurs du modèle  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;g. Quelques modèles utilisés pour le traitement naturel du langage (BERT, RoBERTa, CamemBERT)  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;h. Exemple de CamemBERT : Prédiction de mots "masqués" dans un texte  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i. Utilisation de CamemBERT pour améliorer notre précédent réseau de neuronnes à convolution 1D  
-    
-    
-  
-  <meta name="google-site-verification" content="fqLRo0ldjfvHDc1HaWI4H6DZeUSpgjty3KV7RF51oBc" />
-
-    
-    
-    
+**8. Recommandations et analyse des ressentis avec GloVe : Mise en place d'un réseau de neurones à convolution 1D pour l'analyse de textes**  
+[(Télécharger ce chapitre - 670Mo)](https://drive.google.com/file/d/1yqkEm2Ewj6FuOetdKX-Ary-Ca565v3F1/view?usp=sharing)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. [Présentation : Qu'est-ce que l'analyse des ressentis ?](http://62.210.208.36/MachineLearning/8.%20Recommandations/1.%20Pr%c3%a9sentation%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. [Prolongation lexicale (Word embedding)](http://62.210.208.36/MachineLearning/8.%20Recommandations/2.%20Word%20embedding%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. [Chargement et analyse des données utlisées pour l'entrainement et le test de notre modèle](http://62.210.208.36/MachineLearning/8.%20Recommandations/3.%20Chargement%20des%20donn%c3%a9es%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d. [Chargement des vecteurs GloVe et préparation des données](http://62.210.208.36/MachineLearning/8.%20Recommandations/4.%20Pr%c3%a9paration%20des%20donn%c3%a9es%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e. [Classification de ressentis à l'aide d'un réseau de neurones à convolution 1D sous Keras](http://62.210.208.36/MachineLearning/8.%20Recommandations/5.%20D%c3%a9finition%20du%20mod%c3%a8le%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;f. [Entrainement, prédictions et analyse des erreurs du modèle](http://62.210.208.36/MachineLearning/8.%20Recommandations/6.%20Entrainement%20du%20mod%c3%a8le,%20pr%c3%a9dictions%20et%20analyse%20des%20erreurs%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;g. [Quelques modèles utilisés pour le traitement naturel du langage (BERT, RoBERTa, CamemBERT)](http://62.210.208.36/MachineLearning/8.%20Recommandations/7.%20Quelques%20mod%c3%a8les%20utilis%c3%a9s%20dans%20le%20traitement%20naturel%20du%20langage%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;h. [Exemple de CamemBERT : Prédiction de mots "masqués" dans un texte](http://62.210.208.36/MachineLearning/8.%20Recommandations/8.%20Exemple%20d'utilisation%20de%20CamemBERT%20(Published)/)  
+      
+**9. Principe de fonctionnement de BERT**  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. [Présentation](http://62.210.208.36/MachineLearning/9.%20Principe%20de%20fonctionnement%20de%20BERT/1.%20Pr%c3%a9sentation%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. [Les réseaux de neurones récurrents](http://62.210.208.36/MachineLearning/9.%20Principe%20de%20fonctionnement%20de%20BERT/2.%20Les%20r%c3%a9seaux%20de%20neurones%20r%c3%a9currents%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. [Le concept d'attention](http://62.210.208.36/MachineLearning/9.%20Principe%20de%20fonctionnement%20de%20BERT/3.%20Le%20concept%20d'attention%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d. [Le modèle "Transformer"](http://62.210.208.36/MachineLearning/9.%20Principe%20de%20fonctionnement%20de%20BERT/4.%20Le%20mod%c3%a8le%20Transformer%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e. [Principe de fonctionnement de BERT](http://62.210.208.36/MachineLearning/9.%20Principe%20de%20fonctionnement%20de%20BERT/5.%20Principe%20de%20fonctionnement%20de%20BERT%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;f. [Utilisation de BERT pour la classification](http://62.210.208.36/MachineLearning/9.%20Principe%20de%20fonctionnement%20de%20BERT/6.%20Utilisation%20de%20BERT%20pour%20la%20classification%20(Published)/)      
 
   
