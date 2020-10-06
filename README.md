@@ -126,5 +126,5 @@ Sommaire du cours :
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e. [Principe de fonctionnement de BERT](http://62.210.208.36/MachineLearning/9.%20Principe%20de%20fonctionnement%20de%20BERT/5.%20Principe%20de%20fonctionnement%20de%20BERT%20(Published)/)  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;f. [Utilisation de BERT pour la classification en Anglais](http://62.210.208.36/MachineLearning/9.%20Principe%20de%20fonctionnement%20de%20BERT/6.%20Utilisation%20de%20BERT%20pour%20la%20classification%20(Published)/)  
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;g. [Utilisation de BERT pour la classification - Carnet jupyter](http://62.210.208.36/MachineLearning/9.%20Principe%20de%20fonctionnement%20de%20BERT/7.%20Utilisation%20de%20BERT%20pour%20la%20classification%20-%20Carnet%20Jupyter%20(Published)/)  
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;g. [Utilisation de camemBERT pour la classification en Français]        (http://62.210.208.36/MachineLearning/9.%20Principe%20de%20fonctionnement%20de%20BERT/8.%20Utilisation%20de%20CamemBERT%20pour%20la%20classification%20(Published)/)
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;g. [Utilisation de camemBERT pour la classification en Français](http://62.210.208.36/MachineLearning/9.%20Principe%20de%20fonctionnement%20de%20BERT/8.%20Utilisation%20de%20CamemBERT%20pour%20la%20classification%20(Published)/)
   
