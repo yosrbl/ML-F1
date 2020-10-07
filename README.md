@@ -121,6 +121,7 @@ Sommaire du cours :
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;h. [Exemple de CamemBERT : Prédiction de mots "masqués" dans un texte](http://62.210.208.36/MachineLearning/8.%20Recommandations/8.%20Exemple%20d'utilisation%20de%20CamemBERT%20(Published)/)  
       
 **9. Principe de fonctionnement de BERT. Utilisation de BERT et CamemBERT pour l'analyse des ressentis**  
+[(Télécharger ce chapitre - 475Mo)](https://drive.google.com/file/d/1wztQT5E-4dfSvawQvy8TY6TyUXEi2lJN/view?usp=sharing)  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. [Présentation](http://62.210.208.36/MachineLearning/9.%20Principe%20de%20fonctionnement%20de%20BERT/1.%20Pr%c3%a9sentation%20(Published)/)  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. [Les réseaux de neurones récurrents](http://62.210.208.36/MachineLearning/9.%20Principe%20de%20fonctionnement%20de%20BERT/2.%20Les%20r%c3%a9seaux%20de%20neurones%20r%c3%a9currents%20(Published)/)  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. [Le concept d'attention](http://62.210.208.36/MachineLearning/9.%20Principe%20de%20fonctionnement%20de%20BERT/3.%20Le%20concept%20d'attention%20(Published)/)  
