@@ -1,4 +1,6 @@
 # ML-F1
+**Intelligence artificielle** et **apprentissage automatique** avec **Python**.  
+
 Dépôt pour les **cours de Machine Learning (apprentissage automatique)**, classe de terminale spécialité **Sciences de l'ingénieur** du lycée François 1er à Fontainebleau.    
 (En cours de développement, les liens pour télécharger les **vidéos et présentations** des cours sont ajoutés régulièrement)  
 
@@ -119,11 +121,16 @@ Sommaire du cours :
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;h. [Exemple de CamemBERT : Prédiction de mots "masqués" dans un texte](http://62.210.208.36/MachineLearning/8.%20Recommandations/8.%20Exemple%20d'utilisation%20de%20CamemBERT%20(Published)/)  
       
 **9. Principe de fonctionnement de BERT. Utilisation de BERT et CamemBERT pour l'analyse des ressentis**  
+[(Télécharger ce chapitre - 475Mo)](https://drive.google.com/file/d/1wztQT5E-4dfSvawQvy8TY6TyUXEi2lJN/view?usp=sharing)  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. [Présentation](http://62.210.208.36/MachineLearning/9.%20Principe%20de%20fonctionnement%20de%20BERT/1.%20Pr%c3%a9sentation%20(Published)/)  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. [Les réseaux de neurones récurrents](http://62.210.208.36/MachineLearning/9.%20Principe%20de%20fonctionnement%20de%20BERT/2.%20Les%20r%c3%a9seaux%20de%20neurones%20r%c3%a9currents%20(Published)/)  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. [Le concept d'attention](http://62.210.208.36/MachineLearning/9.%20Principe%20de%20fonctionnement%20de%20BERT/3.%20Le%20concept%20d'attention%20(Published)/)  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d. [Le modèle "Transformer"](http://62.210.208.36/MachineLearning/9.%20Principe%20de%20fonctionnement%20de%20BERT/4.%20Le%20mod%c3%a8le%20Transformer%20(Published)/)  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e. [Principe de fonctionnement de BERT](http://62.210.208.36/MachineLearning/9.%20Principe%20de%20fonctionnement%20de%20BERT/5.%20Principe%20de%20fonctionnement%20de%20BERT%20(Published)/)  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;f. [Utilisation de BERT pour la classification](http://62.210.208.36/MachineLearning/9.%20Principe%20de%20fonctionnement%20de%20BERT/6.%20Utilisation%20de%20BERT%20pour%20la%20classification%20(Published)/)  
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;g. [Utilisation de BERT pour la classification - Carnet jupyter](http://62.210.208.36/MachineLearning/9.%20Principe%20de%20fonctionnement%20de%20BERT/7.%20Utilisation%20de%20BERT%20pour%20la%20classification%20-%20Carnet%20Jupyter%20(Published)/)
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;f. [Utilisation de BERT pour la classification en Anglais](http://62.210.208.36/MachineLearning/9.%20Principe%20de%20fonctionnement%20de%20BERT/6.%20Utilisation%20de%20BERT%20pour%20la%20classification%20(Published)/)  
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;g. [Utilisation de BERT pour la classification - Carnet jupyter](http://62.210.208.36/MachineLearning/9.%20Principe%20de%20fonctionnement%20de%20BERT/7.%20Utilisation%20de%20BERT%20pour%20la%20classification%20-%20Carnet%20Jupyter%20(Published)/)  
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;h. [Utilisation de camemBERT pour la classification en Français](http://62.210.208.36/MachineLearning/9.%20Principe%20de%20fonctionnement%20de%20BERT/8.%20Utilisation%20de%20CamemBERT%20pour%20la%20classification%20(Published)/)    
+              
+**10. Apprentissage non supervisé. Exemple : Détection d'anomalies**  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. [Présentation](http://62.210.208.36/MachineLearning/10.%20Apprentissage%20non%20supervis%c3%a9/1.%20Pr%c3%a9sentation%20(Published)/)
   
