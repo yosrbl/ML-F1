@@ -136,5 +136,7 @@ Sommaire du cours :
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. [Analyse des données](http://62.210.208.36/MachineLearning/10.%20Apprentissage%20non%20supervis%c3%a9/2.%20Analyse%20des%20donn%c3%a9es%20(Published)/)  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. [Les auto-encodeurs](http://62.210.208.36/MachineLearning/10.%20Apprentissage%20non%20supervis%c3%a9/3.%20Auto-encodeurs%20(Published)/)  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d. [Préparation des données](http://62.210.208.36/MachineLearning/10.%20Apprentissage%20non%20supervis%c3%a9/4.%20Pr%c3%a9paration%20des%20donn%c3%a9es%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e. [Construction du modèle](http://62.210.208.36/MachineLearning/10.%20Apprentissage%20non%20supervis%c3%a9/5.%20Construction%20du%20mod%c3%a8le%20(Published)/)  
+    
     
   
