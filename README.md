@@ -13,8 +13,10 @@ Le cours utilise beaucoup d'activités pratiques sous Python. Il y a cependant q
 Certaines parties peuvent également être étudiées avec des secondes en SNT. Quelques idées :  
 * Dans le cadre d'un travail sur les images : Chapitre 6, en particulier l'activité de reconnaissance de police manuscrite, avec transformation des images couleurs en images N&B
 * Dans le cadre d'un travail sur le traitement des données : L'ensemble du chapitre 7.  
-* Dans le cadre du WEB : Le chapitre 8 (à venir) explique comment les moteurs de recherche mettent en oeuvre des algorithmes de prolongation lexicales pour contextualiser les saisies des utilisateurs. Des vecteurs pré-entrainés en Anglais utilisés dans les réseaux de neurones à convolution 1D sont disponibles sur le site [GolVe](https://nlp.stanford.edu/projects/glove/). On peut trouver des vecteurs pré-entrainés en Français [sur ce site](http://www.cs.cmu.edu/~afm/projects/multilingual_embeddings.html)  
-* Toujours dans le cadre du big-data, le chapitre 8 (à venir) peut également servir comme base pour faire un projet avec les élèves sur le thème du "fake news", en utilsant une base de données disponnible sur [le site du gouvernement](https://www.data.gouv.fr/fr/datasets/credibility-corpus-with-several-datasets-twitter-web-database-in-french-and-english) qui a pour but d'analyser l'information dans le cadre des réseaux sociaux par exemple.  
+* Dans le cadre du WEB : Le chapitre 8 explique comment les moteurs de recherche mettent en oeuvre des algorithmes de prolongation lexicales pour contextualiser les saisies des utilisateurs. Des vecteurs pré-entrainés en Anglais utilisés dans les réseaux de neurones à convolution 1D sont disponibles sur le site [GolVe](https://nlp.stanford.edu/projects/glove/). On peut trouver des vecteurs pré-entrainés en Français [sur ce site](http://www.cs.cmu.edu/~afm/projects/multilingual_embeddings.html)  
+* Toujours dans le cadre du big-data, le chapitre 9 peut également servir comme base pour faire un projet avec les élèves sur le thème de l'analyse de données : On y explique comment classifier des avis (par exemple des critiques sur des films) en ressentis positifs ou négatifs automatiquement, à partir de l'analyse du texte.      
+
+Le chapitre 10 est un chapitre particulier car il explique comment mettre en oeuvre un apprentissage non supervisé, alors que tous les autres modèles vus précédemment sont de type supervisés. Ce type de modèle est par exemple utilisé dans le but de détecter des anomalies.
 
 alexandre-antoi.bourrieau[at]ac-creteil.fr
 
@@ -131,6 +133,12 @@ Sommaire du cours :
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;g. [Utilisation de BERT pour la classification - Carnet jupyter](http://62.210.208.36/MachineLearning/9.%20Principe%20de%20fonctionnement%20de%20BERT/7.%20Utilisation%20de%20BERT%20pour%20la%20classification%20-%20Carnet%20Jupyter%20(Published)/)  
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;h. [Utilisation de camemBERT pour la classification en Français](http://62.210.208.36/MachineLearning/9.%20Principe%20de%20fonctionnement%20de%20BERT/8.%20Utilisation%20de%20CamemBERT%20pour%20la%20classification%20(Published)/)    
               
-**10. Apprentissage non supervisé. Exemple : Détection d'anomalies**  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. [Présentation](http://62.210.208.36/MachineLearning/10.%20Apprentissage%20non%20supervis%c3%a9/1.%20Pr%c3%a9sentation%20(Published)/)
+**10. Apprentissage non supervisé. Exemple : Détection d'anomalies à l'aide des auto-encodeurs**  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. [Présentation](http://62.210.208.36/MachineLearning/10.%20Apprentissage%20non%20supervis%c3%a9/1.%20Pr%c3%a9sentation%20(Published)/)  
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. [Analyse des données](http://62.210.208.36/MachineLearning/10.%20Apprentissage%20non%20supervis%c3%a9/2.%20Analyse%20des%20donn%c3%a9es%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. [Les auto-encodeurs](http://62.210.208.36/MachineLearning/10.%20Apprentissage%20non%20supervis%c3%a9/3.%20Auto-encodeurs%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d. [Préparation des données](http://62.210.208.36/MachineLearning/10.%20Apprentissage%20non%20supervis%c3%a9/4.%20Pr%c3%a9paration%20des%20donn%c3%a9es%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e. [Construction du modèle](http://62.210.208.36/MachineLearning/10.%20Apprentissage%20non%20supervis%c3%a9/5.%20Construction%20du%20mod%c3%a8le%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;f. [Entrainement et performances du modèle](http://62.210.208.36/MachineLearning/10.%20Apprentissage%20non%20supervis%c3%a9/6.%20Entrainement%20du%20mod%c3%a8le%20(Published)/)  
+    
   
