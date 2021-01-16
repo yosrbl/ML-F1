@@ -134,13 +134,13 @@ Sommaire du cours :
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;h. [Utilisation de camemBERT pour la classification en Français](http://62.210.208.36/MachineLearning/9.%20Principe%20de%20fonctionnement%20de%20BERT/8.%20Utilisation%20de%20CamemBERT%20pour%20la%20classification%20(Published)/)    
               
 **10. Apprentissage non supervisé. Exemple : Détection d'anomalies à l'aide des auto-encodeurs**  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. [Présentation](http://62.210.208.36/MachineLearning/10.%20Apprentissage%20non%20supervis%c3%a9/1.%20Pr%c3%a9sentation%20(Published)/)  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. [Présentation](http://62.210.208.36/MachineLearning/10.%20Apprentissage%20non%20supervis%c3%a9/1.%20Pr%c3%a9sentation%20(Published)/) 
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. [Analyse des données](http://62.210.208.36/MachineLearning/10.%20Apprentissage%20non%20supervis%c3%a9/2.%20Analyse%20des%20donn%c3%a9es%20(Published)/)  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c. [Les auto-encodeurs](http://62.210.208.36/MachineLearning/10.%20Apprentissage%20non%20supervis%c3%a9/3.%20Auto-encodeurs%20(Published)/)  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;d. [Préparation des données](http://62.210.208.36/MachineLearning/10.%20Apprentissage%20non%20supervis%c3%a9/4.%20Pr%c3%a9paration%20des%20donn%c3%a9es%20(Published)/)  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e. [Construction du modèle](http://62.210.208.36/MachineLearning/10.%20Apprentissage%20non%20supervis%c3%a9/5.%20Construction%20du%20mod%c3%a8le%20(Published)/)  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;f. [Entrainement et performances du modèle](http://62.210.208.36/MachineLearning/10.%20Apprentissage%20non%20supervis%c3%a9/6.%20Entrainement%20du%20mod%c3%a8le%20(Published)/)  
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;f. [Prédictions]()  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;g. [Prédictions](http://62.210.208.36/MachineLearning/10.%20Apprentissage%20non%20supervis%c3%a9/7.%20Pr%c3%a9dictions%20(Published)/)  
     
     
   
